@@ -1,0 +1,30 @@
+{
+  "window_title": "鼠标点击模拟工具 v1.0",
+  "tasks": [
+    {
+      "id": 1,
+      "countdown": 1.0,
+      "relative_x": 802,
+      "relative_y": 662,
+      "click_type": "左键点击"
+    },
+    {
+      "id": 2,
+      "countdown": 1.0,
+      "relative_x": 62,
+      "relative_y": 248,
+      "click_type": "左键点击"
+    },
+    {
+      "id": 3,
+      "countdown": 1.0,
+      "relative_x": 667,
+      "relative_y": 269,
+      "click_type": "左键点击"
+    }
+  ],
+  "task_id_counter": 4,
+  "auto_close": false,
+  "auto_start": false,
+  "minimize": false
+}
